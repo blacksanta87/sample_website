@@ -1,4 +1,4 @@
 # Sample Website
 
-By: [Ahmad Abbas Zaino](https://blacksanta87.github.io/sample_website/)
+By: [Ahmad Abbas Zainol](https://blacksanta87.github.io/sample_website/)
 
